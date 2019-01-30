@@ -3,5 +3,5 @@
 module.exports = avatar;
 
 function avatar() {
-    return ("Hello")
+    return ("avatar")
 }
