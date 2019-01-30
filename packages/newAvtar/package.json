@@ -1,11 +1,11 @@
 {
-  "name": "@rao/avatar",
-  "version": "4.0.0-alpha.0",
+  "name": "@infinity/newavtar",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "rao123dk <dheerajkrao1993@gmail.com>",
   "homepage": "https://github.com/rao123dk/lerna-poc#readme",
-  "license": "MIT",
-  "main": "lib/avatar.js",
+  "license": "ISC",
+  "main": "lib/newAvtar.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,9 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/rao123dk/lerna-poc/issues"
-  },
-  "gitHead": "2cd375574bb6e399a9b6103fbcbcb4fad425125c",
-  "dependencies": {
-    "react": "^16.7.0"
   }
 }
