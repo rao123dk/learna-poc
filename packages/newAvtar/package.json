@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/rao123dk/lerna-poc/issues"
+  },
+  "dependencies": {
+    "redux": "^4.0.1"
   }
 }
